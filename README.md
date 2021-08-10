@@ -27,3 +27,10 @@ Blockchain Systems for Industry 4 0 .
 
 [Dr.Rohit Sharma](https://www.linkedin.com/in/rohit-sharma-7b413317b/) 
 
+<br>
+
+<h3> Credits: </h3> 
+
+<br>
+
+@haspdecrypted || @zircoz
