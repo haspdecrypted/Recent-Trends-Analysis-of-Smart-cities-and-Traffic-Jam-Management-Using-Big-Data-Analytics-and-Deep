@@ -34,3 +34,6 @@ Blockchain Systems for Industry 4 0 .
 <br>
 
 [haspdecrypted](https://github.com/haspdecrypted) || [zircoz](https://github.com/Zircoz)
+
+<br>
+Note: Any changes or pull requests for any issue will not be entertained on this work. It's view only repository.
