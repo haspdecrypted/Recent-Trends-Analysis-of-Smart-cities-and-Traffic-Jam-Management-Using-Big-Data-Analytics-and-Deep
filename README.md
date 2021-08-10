@@ -33,4 +33,4 @@ Blockchain Systems for Industry 4 0 .
 
 <br>
 
-@haspdecrypted || @zircoz
+[haspdecrypted](https://github.com/haspdecrypted) || [zircoz](https://github.com/Zircoz)
